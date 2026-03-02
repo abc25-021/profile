@@ -16,7 +16,7 @@ header#siteheader{
 }
 /* styling site title*/
 h1#sitetitle{
-  test-align:centre;
+  test-align:center;
   font-family:Arial;
   font-size:32px;
   color:orange;
@@ -26,6 +26,6 @@ span#motto{
   font-size:10px;
   font-family:tahoma;
   color:aqua;
-  text-align:centre;
+  text-align:center;
 }
   
